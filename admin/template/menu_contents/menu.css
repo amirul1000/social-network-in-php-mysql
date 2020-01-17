@@ -1,0 +1,46 @@
+dl, dt, dd, ul, li {
+margin : 0;
+padding : 0;
+list-style-type : none;
+}
+#menu {
+width : 190px;
+padding : 0;
+}
+#menu dt {
+cursor : pointer;
+margin : 2px 0;
+height : 32px;
+line-height : 32px;
+text-align : center;
+font-weight : bold;
+border : thin solid #d9def6;
+background-color : #72acdc;
+}
+#menu dt span {
+width : 190px;
+background-repeat : no-repeat;
+background-position : 95% center;
+display : block;
+color: black;
+}
+#menu dd {
+border : thin solid #d9def6;
+}
+#menu li {
+text-align : center;
+background-color : #eff3ff;
+}
+#menu li a, #menu dt a {
+color: black;
+text-decoration : none;
+display : block;
+border : 0 none;
+height : 32px;
+}
+#menu dt a:hover, #menu dt:hover {
+background-color : #eff3ff;
+}
+#menu li a:hover {
+background-color : #e0ebef;
+}

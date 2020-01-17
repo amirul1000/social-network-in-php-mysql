@@ -1,0 +1,1 @@
+[30-Sep-2015 05:28:11 UTC] PHP Fatal error:  Call to undefined function emailExits() in /home/myticketcaptain/public_html/register/index.php on line 14
