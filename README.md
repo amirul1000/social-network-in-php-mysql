@@ -7,7 +7,9 @@ Social Network in PHP MySQL with Source Code
 A social networking service is an online platform which people use to build social networks or social relationship with other people who share similar personal or career interests, activities, backgrounds or real-life connections. The social network is distributed across various computer networks.
 
 Front End
+
 Admin Section
+
 Database
 
 
