@@ -13,7 +13,7 @@ Admin Section
 Database
 
 
-Youtube Tutorial : https://youtu.be/NL2nQtndeRM
+Youtube Tutorial : https://youtu.be/MxovEJwEY4Q
 
 Donate to Paypal : patabuz@gmail.com
 
